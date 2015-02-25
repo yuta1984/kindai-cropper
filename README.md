@@ -10,3 +10,5 @@ Given a scanned image of a book, kindai-cropper detects the edge lines of the bo
 4. Remove outliers from the points marked in the third phase to reduce the influences of false recognitions.
 5. Draw lines which will minimize the sums of the squares of the distances from each point to the line. In statistics, such lines are called orthogonal regression lines and can be easily calculated.
 
+## An example of edge detection
+![](https://raw.githubusercontent.com/yuta1984/kindai-cropper/master/sample.png)
